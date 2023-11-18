@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Cancionify", "Cancionify\Cancionify.vbproj", "{DCFA4C37-58E8-4477-98E1-94BB56434F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFA4C37-58E8-4477-98E1-94BB56434F3C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFA4C37-58E8-4477-98E1-94BB56434F3C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{DCFA4C37-58E8-4477-98E1-94BB56434F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFA4C37-58E8-4477-98E1-94BB56434F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B44D07-AA35-4E2A-9DF4-0959F5AA217A}
+	EndGlobalSection
+EndGlobal
